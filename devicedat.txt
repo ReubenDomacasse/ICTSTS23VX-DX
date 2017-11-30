@@ -1,0 +1,1 @@
+server,domain.users.rotterdam.box1,Dell,ABC-123-DEF,Microsoft Server 2016, 16GB 500GB SSD
