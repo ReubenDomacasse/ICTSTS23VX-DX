@@ -6,11 +6,8 @@ import initialize
 
 
 def add_device():
-    """
-    Adds a new device to the VS-CMDB
-    :return: True if successful
-    """
-    pass
+
+    return True
 
 
 def rename_device():

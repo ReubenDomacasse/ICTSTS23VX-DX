@@ -1,1 +1,2 @@
 server,domain.users.rotterdam.box1,Dell,ABC-123-DEF,Microsoft Server 2016, 16GB 500GB SSD
+['24', '23423', '4234', '42', '423', '242', '2343', '423', '3432', '4234']
